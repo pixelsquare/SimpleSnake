@@ -1,0 +1,4 @@
+C:\Users\Anthony\Desktop\SimpleSnake\SimpleSnake\bin\SimpleSnake.dll
+C:\Users\Anthony\Desktop\SimpleSnake\SimpleSnake\bin\SimpleSnake.pdb
+C:\Users\Anthony\Desktop\SimpleSnake\SimpleSnake\obj\Debug\SimpleSnake.dll
+C:\Users\Anthony\Desktop\SimpleSnake\SimpleSnake\obj\Debug\SimpleSnake.pdb

@@ -1,0 +1,20 @@
+c:\users\11167521\documents\visual studio 2010\Projects\SQLandASP\SQLandASP\bin\SQLandASP.dll
+c:\users\11167521\documents\visual studio 2010\Projects\SQLandASP\SQLandASP\bin\SQLandASP.pdb
+c:\users\11167521\documents\visual studio 2010\Projects\SQLandASP\SQLandASP\obj\Debug\ResolveAssemblyReference.cache
+c:\users\11167521\documents\visual studio 2010\Projects\SQLandASP\SQLandASP\obj\Debug\SQLandASP.dll
+c:\users\11167521\documents\visual studio 2010\Projects\SQLandASP\SQLandASP\obj\Debug\SQLandASP.pdb
+C:\Users\Anthony\Desktop\SQLandASP\SQLandASP\bin\SQLandASP.dll
+C:\Users\Anthony\Desktop\SQLandASP\SQLandASP\bin\SQLandASP.pdb
+C:\Users\Anthony\Desktop\SQLandASP\SQLandASP\obj\Debug\SQLandASP.dll
+C:\Users\Anthony\Desktop\SQLandASP\SQLandASP\obj\Debug\SQLandASP.pdb
+C:\Users\Anthony\Desktop\SQLandASP\SQLandASP\obj\Debug\SQLandASP.csprojResolveAssemblyReference.cache
+C:\Users\Anthony\Desktop\Nicole Snake\SQLandASP\SQLandASP\bin\SQLandASP.dll
+C:\Users\Anthony\Desktop\Nicole Snake\SQLandASP\SQLandASP\bin\SQLandASP.pdb
+C:\Users\Anthony\Desktop\Nicole Snake\SQLandASP\SQLandASP\obj\Debug\SQLandASP.csprojResolveAssemblyReference.cache
+C:\Users\Anthony\Desktop\Nicole Snake\SQLandASP\SQLandASP\obj\Debug\SQLandASP.dll
+C:\Users\Anthony\Desktop\Nicole Snake\SQLandASP\SQLandASP\obj\Debug\SQLandASP.pdb
+C:\Users\Anthony\Dropbox1\Dropbox\Public\Nicole Snake\SQLandASP\SQLandASP\bin\SQLandASP.dll
+C:\Users\Anthony\Dropbox1\Dropbox\Public\Nicole Snake\SQLandASP\SQLandASP\bin\SQLandASP.pdb
+C:\Users\Anthony\Dropbox1\Dropbox\Public\Nicole Snake\SQLandASP\SQLandASP\obj\Debug\SQLandASP.csprojResolveAssemblyReference.cache
+C:\Users\Anthony\Dropbox1\Dropbox\Public\Nicole Snake\SQLandASP\SQLandASP\obj\Debug\SQLandASP.dll
+C:\Users\Anthony\Dropbox1\Dropbox\Public\Nicole Snake\SQLandASP\SQLandASP\obj\Debug\SQLandASP.pdb
