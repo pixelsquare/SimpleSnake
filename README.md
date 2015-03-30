@@ -1,6 +1,6 @@
 # SimpleSnake
 * Project Name: Simple Snake
 
-* Language/s: HTML, CSS, ASP.NET, C#
+* Game Engine: N/A
 
 * Description: A simple snake made for a friend
